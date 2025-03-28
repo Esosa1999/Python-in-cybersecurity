@@ -1,3 +1,3 @@
 # Python-in-cybersecurity
 
-this repository contains python scripts for cybersecurity procedures
+This repository contains Python scripts for automating cybersecurity tasks.
